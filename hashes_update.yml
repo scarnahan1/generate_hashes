@@ -1,0 +1,2 @@
+- name: Run a script with arguments
+  script: /update_hashes.py -working_dir /etc/ztp/tftproot -hash_type md5
