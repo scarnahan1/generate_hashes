@@ -6,6 +6,10 @@
 # Project - mlh_network_staging
 # Version - 1.0
 
+"""
+Working on converting this to a class but it's not working just yet....
+
+"""
 
 import hashlib
 import os
